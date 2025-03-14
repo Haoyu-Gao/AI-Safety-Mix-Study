@@ -1,6 +1,6 @@
 # ICSE-submission-47
 
-## AI Safety in the Eyes of the Downstream Developer: Concenrs, Practices, and Challenges
+## AI Safety in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges
 
 This is the replication package for submission 47 for ICSE'26.
 
